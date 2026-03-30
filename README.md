@@ -1,4 +1,4 @@
-# 🚀 Star Citizen Guild Inventory Bot
+# 🚀 Star Citizen Inventory Tracker Bot
 
 A Discord bot for tracking Star Citizen items across your guild or organisation. Members can manage their own inventory via slash commands; users with the manager role can manage everyone's.
 
